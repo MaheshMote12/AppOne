@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: AppOne
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mahesh.mote
+Implementation-Vendor-Id: com.hurix
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/AppOne
+Created-By: Maven Integration for Eclipse
+
